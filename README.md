@@ -1,4 +1,4 @@
-# netflix-data-analysis
+<!-- # netflix-data-analysis
 ### Visualization 
 ## 1. Most frequent genre 
 <img src='charts/gnerre.png', width='500'></img>
@@ -21,4 +21,38 @@
 <p>Popularity:13.45</p>
 <p>Vote_Count: 152</p>
 <p>Vote_Average: Avg_Popular</p>
-<p>genre: Music/drama</p>
+<p>genre: Music/drama</p> -->
+# Netflix Data Analysis
+
+## 📊 Visualizations
+
+### 1. Most Frequent Genre
+![Most Frequent Genre](charts/gnerre.png)
+
+### 2. State of Movies
+![State of Movies](charts/movies_are.png)
+
+### 3. Most Movies Released
+![Most Movies Released](charts/most_movies.png)
+
+---
+
+## 🎬 Top Movies Analysis
+
+### Most Famous Movie
+
+**Spider-Man: No Way Home**
+- Popularity: 5083.954
+- Vote Count: 8,940
+- Vote Average: Popular
+- Genre: Action
+
+---
+
+### Lowest Rated Movie
+
+**The United States vs. Billie Holiday**
+- Popularity: 13.45
+- Vote Count: 152
+- Vote Average: Avg Popular
+- Genre: Music / Drama
